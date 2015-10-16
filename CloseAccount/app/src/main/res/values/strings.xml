@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fechar Conta</string>
+
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="bt_go_home_activity">Ir para Home</string>
+    <string name="title_activity_home">Home Activity</string>
+
+    <!-- Messages -->
+    <string name="message_open_home">Abrir Home Activity</string>
+</resources>
