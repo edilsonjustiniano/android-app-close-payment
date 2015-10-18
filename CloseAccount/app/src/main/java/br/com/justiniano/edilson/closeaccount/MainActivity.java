@@ -34,11 +34,12 @@ public class MainActivity extends AppCompatActivity {
     private void callHomeActivity() {
 
         Intent intent = new Intent(this, HomeActivity.class);
-        intent.putExtra("MSG", getString(R.string.message_open_home));
-        Integer valueTest = new Integer(10);
-        intent.putExtra("OBJECT", valueTest);
-        Product product = new Product("Coca-cola", 5.5d, 1);
-        intent.putExtra("PRODUCT", product);
+        //Send data to another activity
+//        intent.putExtra("MSG", getString(R.string.message_open_home));
+//        Integer valueTest = new Integer(10);
+//        intent.putExtra("OBJECT", valueTest);
+//        Product product = new Product("Coca-cola", 5.5d, 1);
+//        intent.putExtra("PRODUCT", product);
         startActivity(intent);
     }
 

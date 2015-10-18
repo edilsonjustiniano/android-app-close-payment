@@ -3,10 +3,9 @@
 
     <string name="app_name">Close Account</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
-    <string name="bt_go_home_activity">Go to Home</string>
+    <string name="bt_go_home_activity">Open Account</string>
     <string name="title_activity_home">Home Activity</string>
     <!-- Messages -->
     <string name="message_open_home">Open Home Activity</string>
