@@ -3,8 +3,13 @@
 
     <string name="action_settings">Configurações</string>
 
+    <!-- Main Activity -->
     <string name="bt_go_home_activity">Abrir conta</string>
-    <string name="title_activity_home">Home Activity</string>
+
+    <!-- Home Activity (List) -->
+    <string name="title_activity_home">Conta</string>
+    <string name="bt_add">Adicionar</string>
+    <string name="bt_close">Fechar conta</string>
 
     <!-- Messages -->
     <string name="message_open_home">Abrir Home Activity</string>

@@ -2,11 +2,18 @@
 <resources>
 
     <string name="app_name">Close Account</string>
-
     <string name="action_settings">Settings</string>
 
+    <!-- Main Activity -->
     <string name="bt_go_home_activity">Open Account</string>
-    <string name="title_activity_home">Home Activity</string>
+
+    <!-- Home Activity (List) -->
+    <string name="title_activity_home">Account</string>
+    <string name="bt_add">Add</string>
+    <string name="bt_close">Close Account</string>
+
+
+
     <!-- Messages -->
     <string name="message_open_home">Open Home Activity</string>
 </resources>
