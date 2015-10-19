@@ -4,7 +4,16 @@
     <string name="action_settings">Configurações</string>
 
     <!-- Main Activity -->
-    <string name="bt_go_home_activity">Abrir conta</string>
+    <string name="bt_create_new_account_activity">Abrir conta</string>
+
+    <!-- CreateNew Account Activity -->
+    <string name="title_activity_create_new_account">Criar nova conta</string>
+    <string name="txt_title_create_new_account">Adicionar Pessoas</string>
+    <string name="txt_person_1_create_new_account">Pessoa 1</string>
+    <string name="txt_person_2_create_new_account">Pessoa 2</string>
+    <string name="txt_person_3_create_new_account">Pessoa 3</string>
+    <string name="txt_person_4_create_new_account">Pessoa 4</string>
+    <string name="bt_start_account">Iniciar</string>
 
     <!-- Home Activity (List) -->
     <string name="title_activity_home">Conta</string>
@@ -13,4 +22,6 @@
 
     <!-- Messages -->
     <string name="message_open_home">Abrir Home Activity</string>
+
+
 </resources>

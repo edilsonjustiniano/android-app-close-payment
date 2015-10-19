@@ -8,8 +8,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 
-import br.com.justiniano.edilson.closeaccount.model.Product;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -25,15 +23,15 @@ public class MainActivity extends AppCompatActivity {
         btGoHome.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                callHomeActivity();
+                createNewAccount();
 
             }
         });
     }
 
-    private void callHomeActivity() {
+    private void createNewAccount() {
 
-        Intent intent = new Intent(this, HomeActivity.class);
+        Intent intent = new Intent(this, CreateNewAccount.class);
         //Send data to another activity
 //        intent.putExtra("MSG", getString(R.string.message_open_home));
 //        Integer valueTest = new Integer(10);

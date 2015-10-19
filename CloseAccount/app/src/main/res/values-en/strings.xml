@@ -5,7 +5,16 @@
     <string name="action_settings">Settings</string>
 
     <!-- Main Activity -->
-    <string name="bt_go_home_activity">Open Account</string>
+    <string name="bt_create_new_account_activity">Open Account</string>
+
+    <!-- CreateNew Account Activity -->
+    <string name="title_activity_create_new_account">Create a new account</string>
+    <string name="txt_title_create_new_account">Add Person</string>
+    <string name="txt_person_1_create_new_account">Person 1</string>
+    <string name="txt_person_2_create_new_account">Person 2</string>
+    <string name="txt_person_3_create_new_account">Person 3</string>
+    <string name="txt_person_4_create_new_account">Person 4</string>
+    <string name="bt_start_account">Start</string>
 
     <!-- Home Activity (List) -->
     <string name="title_activity_home">Account</string>
